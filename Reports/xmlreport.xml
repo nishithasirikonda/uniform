@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="23.679162">
+<testcase classname="Title of your feature" name="login page" time="11.132216">
+<system-out><![CDATA[Given User is on homepage...................................................passed
+When User enter invalid credentials.........................................passed
+And User click on submit button.............................................passed
+Then validation message appears.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Title of your feature" name="login page 2" time="12.546946">
+<system-out><![CDATA[Given User is on homepage...................................................passed
+When User enter valid credentials...........................................passed
+And click on submit button..................................................passed
+Then User navigates to homepage.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
